@@ -1,6 +1,6 @@
-FROM node:18.12-alpine
+FROM node:18.18.2-alpine3.18
 
-MAINTAINER jn.germon@meuhmeuhconcept.com
+MAINTAINER jn.germon@code202.fr
 
 RUN apk update && \
     apk add \
