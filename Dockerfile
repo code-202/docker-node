@@ -1,4 +1,4 @@
-FROM node:18.18.2-alpine3.18
+FROM node:20.14-alpine3.20
 
 MAINTAINER jn.germon@code202.fr
 
